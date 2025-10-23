@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'https://your-backend-domain.onrender.com'; // Replace with your Render URL
+const API_BASE_URL = 'https://ai-stock-prediction-84jx.onrender.com'; // Replace with your Render URL
 
 class APIClient {
     constructor() {
