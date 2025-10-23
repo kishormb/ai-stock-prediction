@@ -1,0 +1,661 @@
+{
+  "stocks": [
+    {
+      "symbol": "LT.NS",
+      "sector": "Manufacturing"
+    },
+    {
+      "symbol": "BHEL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BAJAJ-AUTO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "JIOFIN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ALKEM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "NHPC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "CHOLAFIN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "INDUSINDBK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "NAUKRI.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BIOCON.NS",
+      "sector": "Pharma"
+    },
+    {
+      "symbol": "BRITANNIA.NS",
+      "sector": "FMCG"
+    },
+    {
+      "symbol": "UNIONBANK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SBICARD.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ITC.NS",
+      "sector": "FMCG"
+    },
+    {
+      "symbol": "BANKINDIA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ICICIPRULI.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "AMBUJACEM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "KOTAKBANK.NS",
+      "sector": "Finance"
+    },
+    {
+      "symbol": "MANAPPURAM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PIDILITIND.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "UNITDSPR.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ZOMATO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "JSWENERGY.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "AXISBANK.NS",
+      "sector": "Finance"
+    },
+    {
+      "symbol": "TITAN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PEL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HINDALCO.NS",
+      "sector": "Metals"
+    },
+    {
+      "symbol": "BAJFINANCE.NS",
+      "sector": "Manufacturing"
+    },
+    {
+      "symbol": "IDFCFIRSTB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "JINDALSTEL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "COFORGE.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BANKNIFTY.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "MAZDOCK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HDFCAMC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HINDUNILVR.NS",
+      "sector": "FMCG"
+    },
+    {
+      "symbol": "BOMDYEING.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "INFY.NS",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "GODREJCP.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TECHM.NS",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "TATAMOTORS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "IOB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "RELIANCE.NS",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "PERSISTENT.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "INDUSIND.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "NEWGEN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "YESBANK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "MUTHOOTFIN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ABBOTINDIA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PSB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SIEMENS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ESCORTS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ADANIPORTS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HAL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BSE.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "WIPRO.NS",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "NATIONALUM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "INDHOTEL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BAJAJFINSV.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "DRREDDY.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "GEM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "POLYCAB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ICICIGI.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SONACOMS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SBIN.NS",
+      "sector": "Finance"
+    },
+    {
+      "symbol": "TANLA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "DCBBANK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "NIOTINDIA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ULTRACEMCO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SJVN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TATASTEEL.NS",
+      "sector": "Metals"
+    },
+    {
+      "symbol": "UPL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "DLF.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "EZEESHIP.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "NMDC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HCLTECH.NS",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "BERGEPAINT.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ADANIENT.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "DIVISLAB.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "RATNAMANI.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "LUPIN.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PNB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "LTTS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BHARTIARTL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "IDFCBANK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "JUBLFOOD.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "IIFC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "APOLLOHOSP.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BAJAJSUSANN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "CREDITACC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "GRASIM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "CANBK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "OIL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "POWERGRID.NS",
+      "sector": "Utilities"
+    },
+    {
+      "symbol": "M&M.NS",
+      "sector": "Manufacturing"
+    },
+    {
+      "symbol": "NIFTY.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ICICIBANK.NS",
+      "sector": "Finance"
+    },
+    {
+      "symbol": "MPHASIS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ONGC.NS",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "IDEA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SUZLON.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TATACONSUM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "INFIBEAM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BPCL.NS",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "NTPC.NS",
+      "sector": "Utilities"
+    },
+    {
+      "symbol": "SBILIFE.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SHRIRAMFIN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SAIL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HDFCLIFE.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "IREDA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HAPPSTMNDS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "KPITTECH.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ACC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BANDHANBNK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "JSWSTEEL.NS",
+      "sector": "Metals"
+    },
+    {
+      "symbol": "SUNPHARMA.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "INDIANB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PIIND.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SPICEJET.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "DABUR.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "AUBANK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PGHH.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "MARICO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "NESTLEIND.NS",
+      "sector": "FMCG"
+    },
+    {
+      "symbol": "COALINDIA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HEROMOTOCO.NS",
+      "sector": "Automobile"
+    },
+    {
+      "symbol": "HAVELLS.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SMSFINANCE.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "MFSL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "GAIL.NS",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "MARUTI.NS",
+      "sector": "Manufacturing"
+    },
+    {
+      "symbol": "IOC.NS",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "KALYANKJIL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "EICHERMOT.NS",
+      "sector": "Automobile"
+    },
+    {
+      "symbol": "AFFLE.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "CIPLA.NS",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ASIANPAINT.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BEL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "VEDL.NS",
+      "sector": "Metals"
+    },
+    {
+      "symbol": "HINDPETRO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "SRF.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PAYTM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TRENT.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "DMART.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "RECLTD.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BANKBARODA.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BIRLACORPN.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PFC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "PAGEIND.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "ABB.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TORNTPHARM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HDFCBANK.NS",
+      "sector": "Finance"
+    },
+    {
+      "symbol": "TATAELXSI.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TATACOMM.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HUDCO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "INDIGO.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "COLPAL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "CUMMINSIND.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "FEDERALBNK.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "RVNL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "TCS.NS",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "VBL.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "HDFC.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "BOSCHLTD.NS",
+      "sector": "Other"
+    },
+    {
+      "symbol": "LODHA.NS",
+      "sector": "Other"
+    }
+  ],
+  "last_updated": "2025-10-23T17:38:30.883201"
+}

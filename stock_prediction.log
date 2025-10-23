@@ -1,0 +1,47 @@
+2025-10-23 17:38:30,930 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-10-23 17:38:31,007 - __main__ - INFO - Starting AI Stock Prediction System...
+2025-10-23 17:38:31,008 - apscheduler.scheduler - INFO - Added job "update_stock_data" to job store "default"
+2025-10-23 17:38:31,008 - apscheduler.scheduler - INFO - Scheduler started
+2025-10-23 17:38:31,010 - __main__ - INFO - Scheduler started
+2025-10-23 17:38:40,937 - apscheduler.executors.default - INFO - Running job "update_stock_data (trigger: interval[0:00:10], next run at: 2025-10-23 17:38:40 IST)" (scheduled at 2025-10-23 17:38:40.930142+05:30)
+2025-10-23 17:38:40,942 - __main__ - INFO - Starting scheduled data update
+2025-10-23 17:38:45,862 - __main__ - INFO - Updated data for LT.NS
+2025-10-23 17:38:46,326 - __main__ - INFO - Updated data for BHEL.NS
+2025-10-23 17:38:46,536 - __main__ - INFO - Updated data for BAJAJ-AUTO.NS
+2025-10-23 17:38:47,028 - __main__ - INFO - Updated data for JIOFIN.NS
+2025-10-23 17:38:47,271 - __main__ - INFO - Updated data for ALKEM.NS
+2025-10-23 17:38:47,538 - __main__ - INFO - Updated data for NHPC.NS
+2025-10-23 17:38:48,155 - __main__ - INFO - Updated data for CHOLAFIN.NS
+2025-10-23 17:38:48,592 - __main__ - INFO - Updated data for INDUSINDBK.NS
+2025-10-23 17:38:48,812 - __main__ - INFO - Updated data for NAUKRI.NS
+2025-10-23 17:38:49,028 - __main__ - INFO - Updated data for BIOCON.NS
+2025-10-23 17:38:49,028 - __main__ - INFO - Scheduled data update complete
+2025-10-23 17:38:49,029 - apscheduler.executors.default - INFO - Job "update_stock_data (trigger: interval[0:00:10], next run at: 2025-10-23 17:38:50 IST)" executed successfully
+2025-10-23 17:38:50,941 - apscheduler.executors.default - INFO - Running job "update_stock_data (trigger: interval[0:00:10], next run at: 2025-10-23 17:39:00 IST)" (scheduled at 2025-10-23 17:38:50.930142+05:30)
+2025-10-23 17:38:50,942 - __main__ - INFO - Starting scheduled data update
+2025-10-23 17:38:51,100 - __main__ - INFO - Updated data for LT.NS
+2025-10-23 17:38:51,245 - __main__ - INFO - Updated data for BHEL.NS
+2025-10-23 17:38:51,410 - __main__ - INFO - Updated data for BAJAJ-AUTO.NS
+2025-10-23 17:38:51,558 - __main__ - INFO - Updated data for JIOFIN.NS
+2025-10-23 17:38:51,714 - __main__ - INFO - Updated data for ALKEM.NS
+2025-10-23 17:38:51,844 - __main__ - INFO - Updated data for NHPC.NS
+2025-10-23 17:38:51,980 - __main__ - INFO - Updated data for CHOLAFIN.NS
+2025-10-23 17:38:52,129 - __main__ - INFO - Updated data for INDUSINDBK.NS
+2025-10-23 17:38:52,261 - __main__ - INFO - Updated data for NAUKRI.NS
+2025-10-23 17:38:52,402 - __main__ - INFO - Updated data for BIOCON.NS
+2025-10-23 17:38:52,403 - __main__ - INFO - Scheduled data update complete
+2025-10-23 17:38:52,405 - apscheduler.executors.default - INFO - Job "update_stock_data (trigger: interval[0:00:10], next run at: 2025-10-23 17:39:00 IST)" executed successfully
+2025-10-23 17:39:00,945 - apscheduler.executors.default - INFO - Running job "update_stock_data (trigger: interval[0:00:10], next run at: 2025-10-23 17:39:10 IST)" (scheduled at 2025-10-23 17:39:00.930142+05:30)
+2025-10-23 17:39:00,946 - __main__ - INFO - Starting scheduled data update
+2025-10-23 17:39:01,319 - __main__ - INFO - Updated data for LT.NS
+2025-10-23 17:39:01,567 - __main__ - INFO - Updated data for BHEL.NS
+2025-10-23 17:39:01,881 - __main__ - INFO - Updated data for BAJAJ-AUTO.NS
+2025-10-23 17:39:02,076 - __main__ - INFO - Updated data for JIOFIN.NS
+2025-10-23 17:39:02,382 - __main__ - INFO - Updated data for ALKEM.NS
+2025-10-23 17:39:02,576 - __main__ - INFO - Updated data for NHPC.NS
+2025-10-23 17:39:02,806 - __main__ - INFO - Updated data for CHOLAFIN.NS
+2025-10-23 17:39:03,032 - __main__ - INFO - Updated data for INDUSINDBK.NS
+2025-10-23 17:39:03,236 - __main__ - INFO - Updated data for NAUKRI.NS
+2025-10-23 17:39:03,455 - __main__ - INFO - Updated data for BIOCON.NS
+2025-10-23 17:39:03,456 - __main__ - INFO - Scheduled data update complete
+2025-10-23 17:39:03,456 - apscheduler.executors.default - INFO - Job "update_stock_data (trigger: interval[0:00:10], next run at: 2025-10-23 17:39:10 IST)" executed successfully

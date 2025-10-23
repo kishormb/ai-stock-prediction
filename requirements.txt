@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+yfinance
+requests
+retry
+tensorflow
+scikit-learn
+joblib
+ta
+apscheduler
+python-multipart
